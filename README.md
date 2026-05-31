@@ -28,7 +28,7 @@ Download and release notes: [github.com/pavi2410/based/releases](https://github.
 After publishing a new release, update `Casks/based.rb` with the version and SHA-256 from the release assets:
 
 ```bash
-gh release view v2026.5.2 --repo pavi2410/based --json assets
+gh release view v2026.5.1 --repo pavi2410/based --json assets
 ```
 
 Use the `digest` value for `Based_{version}_aarch64.dmg`, stripping the `sha256:` prefix for the cask `sha256` field.
