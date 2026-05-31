@@ -1,6 +1,6 @@
 cask "based" do
-  version "2026.5.4"
-  sha256 "f35945c1e6eebfdeab11719ef0576ccf5449f9984faaab69ced7f6b5419f2e87"
+  version "2026.5.5"
+  sha256 "2f15f8e766680f6a91ccc09d81943cf1e95e6e4d5eeb17af2e3ab4c40e76e7a3"
 
   url "https://github.com/pavi2410/based/releases/download/v#{version}/Based_#{version}_aarch64.dmg"
   name "Based"
